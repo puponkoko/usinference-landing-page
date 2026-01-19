@@ -1,0 +1,6 @@
+{
+  "name": "Inference Landing",
+  "description": "Stealth landing page for Inference (usinference.com) featuring 3D wireframe branding and high-end aesthetics.",
+  "requestFramePermissions": [],
+  "prompt": "generate landing page for stealth startup usinference.com , logo is attached"
+}
